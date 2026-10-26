@@ -1,158 +1,77 @@
-<h1 align="center">Hi there! 👋 I'm Syed Muhammad Nadey Ali</h1>
-
-<h3 align="center">Full-Stack Developer · Generative AI Enthusiast · Tech Leader</h3>
+<h1 align="center">Syed Muhammad Nadey Ali</h1>
 
 <p align="center">
+  <b>Software Engineer</b> · Full-Stack (Node.js · React · Flutter) · CS @ NUST
+</p>
+
+<p align="center">
+  <a href="https://resume-nadeyali.vercel.app"><img src="https://img.shields.io/badge/Résumé-111111?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
   <a href="https://linkedin.com/in/syedmuhammadnadeyali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:s.nadishah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/nadishah.mp4"><img src="https://img.shields.io/badge/@nadishah.mp4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+I'm a CS undergrad at **NUST** (CGPA 3.4, top 10%) who ships production software. I've built Flutter screens for an investment app with 1,500+ users, Node.js APIs that feed HubSpot with 2,000+ leads, and two products of my own that are live right now.
 
-Computer Science student at **NUST (SEECS)**, class of 2029 — **CGPA 3.4, top 10%** of my cohort. I build backends that hold up and frontends that get out of the way, and I care most about shipping things real people actually use.
-
-Two of my products are live in production right now. Both links below work — go break them.
-
-- 🚀 **Founder of [Mehndley](https://mehndley.fly.dev)** — a full-stack audio medley builder, live on Fly.io.
-- 🔭 **Building [LendAHand](https://lendahand-vzv6.onrender.com/)** — a student task marketplace with maps, auth, and AI price estimation.
-- 💼 **Open to** Software Development and AI engineering internships.
-- ⚡ **Fun fact:** when I'm not coding I'm playing FIFA or NBA 2K, editing in DaVinci Resolve, or hanging out with my Siberian Husky.
+- 💼 **Recently:** Software Engineer Intern at **KONVISTEQ**. I redesigned 10+ Flutter screens of AmzoApp (~10% retention lift) and fixed a critical Node.js API bug that had broken users' balances and history.
+- 🚀 **Building:** [**Mehndley**](https://mehndley.fly.dev), a desi wedding medley maker, and [**LendAHand**](https://lendahand-vzv6.onrender.com), a student task marketplace.
+- 🏆 **Latest win:** 1st place at **AICON'26 Pitch Fest** (NUST), as Team Lead and CFO of Ilm Card.
+- 📫 **Open to** Software Engineering and AI Engineering internships.
 
 ---
 
-### ⭐ Featured Projects
+### ⭐ Featured work
 
-<table>
-<tr><th>Project</th><th>What it does</th><th>Stack</th><th>Links</th></tr>
-
-<tr>
-<td><b>Mehndley</b></td>
-<td>Turns a pile of songs into one seamless wedding medley. FFmpeg renders run as non-blocking child processes with live progress streamed to the browser over Server-Sent Events — <b>30 minutes of desktop audio editing down to under 5</b>.</td>
-<td><code>Node.js</code> <code>Express</code> <code>FFmpeg</code> <code>WaveSurfer.js</code> <code>Docker</code></td>
-<td><a href="https://mehndley.fly.dev">🌐 Live</a><br><a href="https://github.com/snadishah/mehndley">💻 Code</a></td>
-</tr>
-
-<tr>
-<td><b>LendAHand</b></td>
-<td>A marketplace connecting students for everyday tasks. Live Leaflet maps surface nearby jobs, and a Google Gemini integration suggests fair prices in Rs. Secured with JWT/bcrypt auth and Zod validation.</td>
-<td><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Tailwind</code> <code>Prisma</code> <code>PostgreSQL</code></td>
-<td><a href="https://lendahand-vzv6.onrender.com/">🌐 Live</a><br><a href="https://github.com/snadishah/LendAHand">💻 Code</a></td>
-</tr>
-
-<tr>
-<td><b>Pakistan Stock Market Simulator</b></td>
-<td>A relational database in <b>3NF across 12 core entities</b>, with an interactive dashboard for market trends and portfolio tracking. Schema tuning cut query latency <b>40%</b> over 10,000+ simulated trades.</td>
-<td><code>MySQL</code> <code>SQL</code> <code>DBMS</code></td>
-<td>—</td>
-</tr>
-
-<tr>
-<td><b>Campus Chaos: NUST Edition</b></td>
-<td>A 2D survival game about student life with custom mechanics and OOP design — every sprite, background, and UI element generated with AI image tools.</td>
-<td><code>C++</code> <code>SFML</code> <code>OOP</code></td>
-<td>—</td>
-</tr>
-
-</table>
+| Project | What it is | Stack | |
+|---|---|---|---|
+| **[Mehndley](https://github.com/snadishah/mehndley)** | Turns a stack of songs into one seamless wedding medley in the browser. FFmpeg renders run as non-blocking child processes and stream live progress over SSE, cutting **30 minutes of desktop editing to under 5**. | Node.js · Express · FFmpeg · WaveSurfer.js · Docker · Fly.io | [Live ↗](https://mehndley.fly.dev) |
+| **[LendAHand](https://github.com/snadishah/LendAHand)** | A student task marketplace with bidding, wallet escrow and two-way reviews. Live Leaflet maps surface nearby tasks, and Gemini suggests fair prices. Secured with JWT/bcrypt and Zod. | React · TypeScript · Node.js · Prisma · PostgreSQL · Tailwind | [Live ↗](https://lendahand-vzv6.onrender.com) |
+| **[Pakistan Stock Market Simulator](https://github.com/snadishah/pakistan-stock-market-simulator)** | A PSX trading simulator on a **3NF MySQL schema**, with live candlestick charts, portfolios, price alerts and trade history. Schema tuning cut query latency **40%** across 10,000+ trades. | Java · JavaFX · MySQL · JDBC | — |
+| **[LendAHand Desktop](https://github.com/snadishah/lendahand-desktop)** | The original JavaFX version of LendAHand, built as an MVC/OOP project before I rebuilt it for the web. | Java · JavaFX · SQLite/MySQL · Gemini | — |
+| **[Campus Chaos](https://github.com/snadishah/campus-chaos)** | A 2D survival game about first semester at NUST, built on a 19-state game loop with minigames, weather and saved high scores. | C++ · SFML | — |
 
 ---
 
 ### 💼 Experience
 
-**Vyro (ImagineArt)** — *UGC Intern* · Feb 2026 – Apr 2026
-- Cut end-user design time **50%** by managing the ideas section and optimizing ImagineArt's node-based AI workflows for commercial, branding, and personal use.
-- Decreased marketing content creation time **40%**, publishing **60+ promotional posts monthly** across 3 Instagram accounts using generative AI tools.
-
-**TeleCrew** — *Backend Developer* · Aug 2025 – Jan 2026
-- Increased sales conversion **30%** by building Node.js REST APIs that pipe lead data straight into HubSpot CRM, processing **2000+ US-based leads**.
-- Supported onboarding of **5 new US partnerships** with an internal data-tracking dashboard in React and MongoDB.
-
-**Mehndley** — *Founder & Full-Stack Developer* · 2026 – Present
-- Built and deployed the entire product solo — FFmpeg pipeline, Express API, frontend, Docker image, and landing page.
-
-**Kirnaain (NGO)** — *Co-Founder & Director Web & IT* · 2024 – Present
-- Boosted membership and volunteer applications **50%** with the org's first fully responsive website, built in React.
-- Cut manual coordination time **40%** by replacing spreadsheets with a Supabase backend and automating content scheduling with Python via GitHub Actions.
+| Role | Company | When | Impact |
+|---|---|---|---|
+| Software Engineer Intern | **KONVISTEQ** | Jun – Aug 2026 | ~10% retention lift for 1,500+ users. Redesigned 10+ Flutter screens and fixed a critical Node.js API bug |
+| UGC Intern | **Vyro (ImagineArt)** | Feb – Apr 2026 | Cut end-user design time 50% by optimizing node-based AI workflows |
+| Backend Developer | **TeleCrew** | Aug 2025 – Jan 2026 | +30% sales conversion with Node.js → HubSpot APIs (2,000+ leads), and a React/MongoDB dashboard for 5 US partners |
+| Founder & Full-Stack Dev | **Mehndley** | 2026 – Present | Built and shipped the whole product solo |
+| Co-Founder, Director Web & IT | **Kirnaain (NGO)** | 2024 – Present | +50% volunteer applications with a React site, and 40% less coordination time with Supabase + GitHub Actions |
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech stack
 
-**Languages**
+**Languages:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-**Backend**
+**Frontend & Mobile:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git%2FGitHub-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+**DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Fly.io](https://img.shields.io/badge/Fly.io-7B3BE2?style=flat-square&logo=flydotio&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
+
+### 🏆 Leadership
+
+- **AICON'26 Pitch Fest (NUST): 1st Place, Team Lead.** Pitched Ilm Card, an offline learning startup that fits a full school term on one memory card. I built its [live website](https://ilmcard.vercel.app) and owned the Rs 7M funding ask as CFO.
+- **NUST Hack Club, Deputy Director HR.** Ran 2 hackathons for 500+ participants with a 20-member team.
+- **NUST Book Club, Director Media.** I lead a 12-member media team.
 
 ### 🎓 Education
 
-**National University of Sciences and Technology (NUST H-12)** · 2025 – 2029
-B.Sc. Computer Science — **CGPA 3.4 (Top 10%)**
-*Key courses: Fundamentals of Computer Programming (C++), Object Oriented Programming (Java), Information and Communication Technology (Python), Database Management Systems (MySQL, Oracle, MongoDB), Digital Logic Design.*
-
-**Government College University (GCU), Lahore** · 2023 – 2025
-Intermediate (ICS) — **90% (Top 3%)**
-
----
-
-### 🤝 Leadership & Extra-Curriculars
-
-- **NUST Hack Club** — *Deputy Director, Human Resources* · 2026 – Present
-  Executed **2 large-scale hackathons** for **500+ participants**, managing a 20-member team.
-- **Competitive Programming & Hackathons** — *Participant* · 2026
-  Placed in the **top 10% across 3 national hackathons** and 2 university-level AI challenges, prototyping working software under 24–48 hour constraints.
-
----
-
-<div align="center">
-
-![Nadey's GitHub stats](https://github-readme-stats.vercel.app/api?username=snadishah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snadishah&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+**NUST (H-12):** B.Sc. Computer Science, 2025 – 2029 · CGPA 3.4 (top 10%)
+<sub>DSA (C++) · Artificial Intelligence · Information Security · Computer Networks · DBMS · OOP (Java)</sub>
 
 ---
 
 <p align="center">
-  <i>Open to internships, collaborations, and interesting problems.</i><br>
-  📫 <a href="mailto:s.nadishah@gmail.com">s.nadishah@gmail.com</a> · 📱 +92 (331) 4043237 · 📍 Lahore, Pakistan
+  📍 Islamabad, Pakistan · 📫 <a href="mailto:s.nadishah@gmail.com">s.nadishah@gmail.com</a> · 📄 <a href="https://resume-nadeyali.vercel.app">resume-nadeyali.vercel.app</a>
 </p>
