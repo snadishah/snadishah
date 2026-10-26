@@ -27,6 +27,7 @@ I'm a CS undergrad at **NUST** (CGPA 3.4, top 10%) who ships production software
 |---|---|---|---|
 | **[Mehndley](https://github.com/snadishah/mehndley)** | Turns a stack of songs into one seamless wedding medley in the browser. FFmpeg renders run as non-blocking child processes and stream live progress over SSE, cutting **30 minutes of desktop editing to under 5**. | Node.js · Express · FFmpeg · WaveSurfer.js · Docker · Fly.io | [Live ↗](https://mehndley.fly.dev) |
 | **[LendAHand](https://github.com/snadishah/LendAHand)** | A student task marketplace with bidding, wallet escrow and two-way reviews. Live Leaflet maps surface nearby tasks, and Gemini suggests fair prices. Secured with JWT/bcrypt and Zod. | React · TypeScript · Node.js · Prisma · PostgreSQL · Tailwind | [Live ↗](https://lendahand-vzv6.onrender.com) |
+| **[Ilm Card](https://github.com/snadishah/ilm-card)** 🏆 | Website for my **AICON'26 1st-place** startup: an offline school term on one memory card. It's a scroll-driven three.js story with a no-WebGL fallback and no build step, so it stays fast on low-end phones. | JavaScript · three.js · WebGL · HTML/CSS | [Live ↗](https://ilmcard.vercel.app) |
 | **[Pakistan Stock Market Simulator](https://github.com/snadishah/pakistan-stock-market-simulator)** | A PSX trading simulator on a **3NF MySQL schema**, with live candlestick charts, portfolios, price alerts and trade history. Schema tuning cut query latency **40%** across 10,000+ trades. | Java · JavaFX · MySQL · JDBC | — |
 | **[LendAHand Desktop](https://github.com/snadishah/lendahand-desktop)** | The original JavaFX version of LendAHand, built as an MVC/OOP project before I rebuilt it for the web. | Java · JavaFX · SQLite/MySQL · Gemini | — |
 | **[Campus Chaos](https://github.com/snadishah/campus-chaos)** | A 2D survival game about first semester at NUST, built on a 19-state game loop with minigames, weather and saved high scores. | C++ · SFML | — |
@@ -61,7 +62,7 @@ I'm a CS undergrad at **NUST** (CGPA 3.4, top 10%) who ships production software
 
 ### 🏆 Leadership
 
-- **AICON'26 Pitch Fest (NUST): 1st Place, Team Lead.** Pitched Ilm Card, an offline learning startup that fits a full school term on one memory card. I built its [live website](https://ilmcard.vercel.app) and owned the Rs 7M funding ask as CFO.
+- **AICON'26 Pitch Fest (NUST): 1st Place, Team Lead.** Pitched Ilm Card, an offline learning startup that fits a full school term on one memory card. I built its [website](https://ilmcard.vercel.app) ([source](https://github.com/snadishah/ilm-card)) and owned the Rs 7M funding ask as CFO.
 - **NUST Hack Club, Deputy Director HR.** Ran 2 hackathons for 500+ participants with a 20-member team.
 - **NUST Book Club, Director Media.** I lead a 12-member media team.
 
